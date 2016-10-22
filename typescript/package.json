@@ -1,0 +1,6 @@
+{
+  "name": "typescript",
+  "devDependencies": {
+    "tsun": "^0.3.1"
+  }
+}
